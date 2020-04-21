@@ -15,6 +15,7 @@ var (
 				{
 					CountryCode: "AF",
 					Name:        "Asia/Kabul",
+					City:        "kabul",
 				},
 			},
 		},
@@ -25,6 +26,7 @@ var (
 				{
 					CountryCode: "AL",
 					Name:        "Europe/Tirane",
+					City:        "tirane",
 				},
 			},
 		},
@@ -35,6 +37,7 @@ var (
 				{
 					CountryCode: "DZ",
 					Name:        "Africa/Algiers",
+					City:        "algiers",
 				},
 			},
 		},
@@ -45,6 +48,7 @@ var (
 				{
 					CountryCode: "AS",
 					Name:        "Pacific/Pago_Pago",
+					City:        "pago pago",
 				},
 			},
 		},
@@ -55,6 +59,7 @@ var (
 				{
 					CountryCode: "AD",
 					Name:        "Europe/Andorra",
+					City:        "andorra",
 				},
 			},
 		},
@@ -65,6 +70,7 @@ var (
 				{
 					CountryCode: "AO",
 					Name:        "Africa/Luanda",
+					City:        "luanda",
 				},
 			},
 		},
@@ -75,6 +81,7 @@ var (
 				{
 					CountryCode: "AI",
 					Name:        "America/Anguilla",
+					City:        "anguilla",
 				},
 			},
 		},
@@ -85,42 +92,52 @@ var (
 				{
 					CountryCode: "AQ",
 					Name:        "Antarctica/Casey",
+					City:        "casey",
 				},
 				{
 					CountryCode: "AQ",
 					Name:        "Antarctica/Davis",
+					City:        "davis",
 				},
 				{
 					CountryCode: "AQ",
 					Name:        "Antarctica/DumontDUrville",
+					City:        "dumontdurville",
 				},
 				{
 					CountryCode: "AQ",
 					Name:        "Antarctica/Mawson",
+					City:        "mawson",
 				},
 				{
 					CountryCode: "AQ",
 					Name:        "Antarctica/McMurdo",
+					City:        "mcmurdo",
 				},
 				{
 					CountryCode: "AQ",
 					Name:        "Antarctica/Palmer",
+					City:        "palmer",
 				},
 				{
 					CountryCode: "AQ",
 					Name:        "Antarctica/Rothera",
+					City:        "rothera",
 				},
 				{
 					CountryCode: "AQ",
 					Name:        "Antarctica/Syowa",
+					City:        "syowa",
 				},
 				{
 					CountryCode: "AQ",
 					Name:        "Antarctica/Troll",
+					City:        "troll",
 				},
 				{
 					CountryCode: "AQ",
 					Name:        "Antarctica/Vostok",
+					City:        "vostok",
 				},
 			},
 		},
@@ -131,6 +148,7 @@ var (
 				{
 					CountryCode: "AG",
 					Name:        "America/Antigua",
+					City:        "antigua",
 				},
 			},
 		},
@@ -141,50 +159,62 @@ var (
 				{
 					CountryCode: "AR",
 					Name:        "America/Argentina/Buenos_Aires",
+					City:        "buenos aires",
 				},
 				{
 					CountryCode: "AR",
 					Name:        "America/Argentina/Catamarca",
+					City:        "catamarca",
 				},
 				{
 					CountryCode: "AR",
 					Name:        "America/Argentina/Cordoba",
+					City:        "cordoba",
 				},
 				{
 					CountryCode: "AR",
 					Name:        "America/Argentina/Jujuy",
+					City:        "jujuy",
 				},
 				{
 					CountryCode: "AR",
 					Name:        "America/Argentina/La_Rioja",
+					City:        "la rioja",
 				},
 				{
 					CountryCode: "AR",
 					Name:        "America/Argentina/Mendoza",
+					City:        "mendoza",
 				},
 				{
 					CountryCode: "AR",
 					Name:        "America/Argentina/Rio_Gallegos",
+					City:        "rio gallegos",
 				},
 				{
 					CountryCode: "AR",
 					Name:        "America/Argentina/Salta",
+					City:        "salta",
 				},
 				{
 					CountryCode: "AR",
 					Name:        "America/Argentina/San_Juan",
+					City:        "san juan",
 				},
 				{
 					CountryCode: "AR",
 					Name:        "America/Argentina/San_Luis",
+					City:        "san luis",
 				},
 				{
 					CountryCode: "AR",
 					Name:        "America/Argentina/Tucuman",
+					City:        "tucuman",
 				},
 				{
 					CountryCode: "AR",
 					Name:        "America/Argentina/Ushuaia",
+					City:        "ushuaia",
 				},
 			},
 		},
@@ -195,6 +225,7 @@ var (
 				{
 					CountryCode: "AM",
 					Name:        "Asia/Yerevan",
+					City:        "yerevan",
 				},
 			},
 		},
@@ -205,6 +236,7 @@ var (
 				{
 					CountryCode: "AW",
 					Name:        "America/Aruba",
+					City:        "aruba",
 				},
 			},
 		},
@@ -215,54 +247,67 @@ var (
 				{
 					CountryCode: "AU",
 					Name:        "Antarctica/Macquarie",
+					City:        "macquarie",
 				},
 				{
 					CountryCode: "AU",
 					Name:        "Australia/Adelaide",
+					City:        "adelaide",
 				},
 				{
 					CountryCode: "AU",
 					Name:        "Australia/Brisbane",
+					City:        "brisbane",
 				},
 				{
 					CountryCode: "AU",
 					Name:        "Australia/Broken_Hill",
+					City:        "broken hill",
 				},
 				{
 					CountryCode: "AU",
 					Name:        "Australia/Currie",
+					City:        "currie",
 				},
 				{
 					CountryCode: "AU",
 					Name:        "Australia/Darwin",
+					City:        "darwin",
 				},
 				{
 					CountryCode: "AU",
 					Name:        "Australia/Eucla",
+					City:        "eucla",
 				},
 				{
 					CountryCode: "AU",
 					Name:        "Australia/Hobart",
+					City:        "hobart",
 				},
 				{
 					CountryCode: "AU",
 					Name:        "Australia/Lindeman",
+					City:        "lindeman",
 				},
 				{
 					CountryCode: "AU",
 					Name:        "Australia/Lord_Howe",
+					City:        "lord howe",
 				},
 				{
 					CountryCode: "AU",
 					Name:        "Australia/Melbourne",
+					City:        "melbourne",
 				},
 				{
 					CountryCode: "AU",
 					Name:        "Australia/Perth",
+					City:        "perth",
 				},
 				{
 					CountryCode: "AU",
 					Name:        "Australia/Sydney",
+					City:        "sydney",
 				},
 			},
 		},
@@ -273,6 +318,7 @@ var (
 				{
 					CountryCode: "AT",
 					Name:        "Europe/Vienna",
+					City:        "vienna",
 				},
 			},
 		},
@@ -283,6 +329,7 @@ var (
 				{
 					CountryCode: "AZ",
 					Name:        "Asia/Baku",
+					City:        "baku",
 				},
 			},
 		},
@@ -293,6 +340,7 @@ var (
 				{
 					CountryCode: "BS",
 					Name:        "America/Nassau",
+					City:        "nassau",
 				},
 			},
 		},
@@ -303,6 +351,7 @@ var (
 				{
 					CountryCode: "BH",
 					Name:        "Asia/Bahrain",
+					City:        "bahrain",
 				},
 			},
 		},
@@ -313,6 +362,7 @@ var (
 				{
 					CountryCode: "BD",
 					Name:        "Asia/Dhaka",
+					City:        "dhaka",
 				},
 			},
 		},
@@ -323,6 +373,7 @@ var (
 				{
 					CountryCode: "BB",
 					Name:        "America/Barbados",
+					City:        "barbados",
 				},
 			},
 		},
@@ -333,6 +384,7 @@ var (
 				{
 					CountryCode: "BY",
 					Name:        "Europe/Minsk",
+					City:        "minsk",
 				},
 			},
 		},
@@ -343,6 +395,7 @@ var (
 				{
 					CountryCode: "BE",
 					Name:        "Europe/Brussels",
+					City:        "brussels",
 				},
 			},
 		},
@@ -353,6 +406,7 @@ var (
 				{
 					CountryCode: "BZ",
 					Name:        "America/Belize",
+					City:        "belize",
 				},
 			},
 		},
@@ -363,6 +417,7 @@ var (
 				{
 					CountryCode: "BJ",
 					Name:        "Africa/Porto-Novo",
+					City:        "porto-novo",
 				},
 			},
 		},
@@ -373,6 +428,7 @@ var (
 				{
 					CountryCode: "BM",
 					Name:        "Atlantic/Bermuda",
+					City:        "bermuda",
 				},
 			},
 		},
@@ -383,6 +439,7 @@ var (
 				{
 					CountryCode: "BT",
 					Name:        "Asia/Thimphu",
+					City:        "thimphu",
 				},
 			},
 		},
@@ -393,6 +450,7 @@ var (
 				{
 					CountryCode: "BO",
 					Name:        "America/La_Paz",
+					City:        "la paz",
 				},
 			},
 		},
@@ -403,6 +461,7 @@ var (
 				{
 					CountryCode: "BQ",
 					Name:        "America/Kralendijk",
+					City:        "kralendijk",
 				},
 			},
 		},
@@ -413,6 +472,7 @@ var (
 				{
 					CountryCode: "BA",
 					Name:        "Europe/Sarajevo",
+					City:        "sarajevo",
 				},
 			},
 		},
@@ -423,6 +483,7 @@ var (
 				{
 					CountryCode: "BW",
 					Name:        "Africa/Gaborone",
+					City:        "gaborone",
 				},
 			},
 		},
@@ -438,66 +499,82 @@ var (
 				{
 					CountryCode: "BR",
 					Name:        "America/Araguaina",
+					City:        "araguaina",
 				},
 				{
 					CountryCode: "BR",
 					Name:        "America/Bahia",
+					City:        "bahia",
 				},
 				{
 					CountryCode: "BR",
 					Name:        "America/Belem",
+					City:        "belem",
 				},
 				{
 					CountryCode: "BR",
 					Name:        "America/Boa_Vista",
+					City:        "boa vista",
 				},
 				{
 					CountryCode: "BR",
 					Name:        "America/Campo_Grande",
+					City:        "campo grande",
 				},
 				{
 					CountryCode: "BR",
 					Name:        "America/Cuiaba",
+					City:        "cuiaba",
 				},
 				{
 					CountryCode: "BR",
 					Name:        "America/Eirunepe",
+					City:        "eirunepe",
 				},
 				{
 					CountryCode: "BR",
 					Name:        "America/Fortaleza",
+					City:        "fortaleza",
 				},
 				{
 					CountryCode: "BR",
 					Name:        "America/Maceio",
+					City:        "maceio",
 				},
 				{
 					CountryCode: "BR",
 					Name:        "America/Manaus",
+					City:        "manaus",
 				},
 				{
 					CountryCode: "BR",
 					Name:        "America/Noronha",
+					City:        "noronha",
 				},
 				{
 					CountryCode: "BR",
 					Name:        "America/Porto_Velho",
+					City:        "porto velho",
 				},
 				{
 					CountryCode: "BR",
 					Name:        "America/Recife",
+					City:        "recife",
 				},
 				{
 					CountryCode: "BR",
 					Name:        "America/Rio_Branco",
+					City:        "rio branco",
 				},
 				{
 					CountryCode: "BR",
 					Name:        "America/Santarem",
+					City:        "santarem",
 				},
 				{
 					CountryCode: "BR",
 					Name:        "America/Sao_Paulo",
+					City:        "sao paulo",
 				},
 			},
 		},
@@ -508,6 +585,7 @@ var (
 				{
 					CountryCode: "IO",
 					Name:        "Indian/Chagos",
+					City:        "chagos",
 				},
 			},
 		},
@@ -518,6 +596,7 @@ var (
 				{
 					CountryCode: "BN",
 					Name:        "Asia/Brunei",
+					City:        "brunei",
 				},
 			},
 		},
@@ -528,6 +607,7 @@ var (
 				{
 					CountryCode: "BG",
 					Name:        "Europe/Sofia",
+					City:        "sofia",
 				},
 			},
 		},
@@ -538,6 +618,7 @@ var (
 				{
 					CountryCode: "BF",
 					Name:        "Africa/Ouagadougou",
+					City:        "ouagadougou",
 				},
 			},
 		},
@@ -548,6 +629,7 @@ var (
 				{
 					CountryCode: "BI",
 					Name:        "Africa/Bujumbura",
+					City:        "bujumbura",
 				},
 			},
 		},
@@ -558,6 +640,7 @@ var (
 				{
 					CountryCode: "KH",
 					Name:        "Asia/Phnom_Penh",
+					City:        "phnom penh",
 				},
 			},
 		},
@@ -568,6 +651,7 @@ var (
 				{
 					CountryCode: "CM",
 					Name:        "Africa/Douala",
+					City:        "douala",
 				},
 			},
 		},
@@ -578,114 +662,142 @@ var (
 				{
 					CountryCode: "CA",
 					Name:        "America/Atikokan",
+					City:        "atikokan",
 				},
 				{
 					CountryCode: "CA",
 					Name:        "America/Blanc-Sablon",
+					City:        "blanc-sablon",
 				},
 				{
 					CountryCode: "CA",
 					Name:        "America/Cambridge_Bay",
+					City:        "cambridge bay",
 				},
 				{
 					CountryCode: "CA",
 					Name:        "America/Creston",
+					City:        "creston",
 				},
 				{
 					CountryCode: "CA",
 					Name:        "America/Dawson",
+					City:        "dawson",
 				},
 				{
 					CountryCode: "CA",
 					Name:        "America/Dawson_Creek",
+					City:        "dawson creek",
 				},
 				{
 					CountryCode: "CA",
 					Name:        "America/Edmonton",
+					City:        "edmonton",
 				},
 				{
 					CountryCode: "CA",
 					Name:        "America/Fort_Nelson",
+					City:        "fort nelson",
 				},
 				{
 					CountryCode: "CA",
 					Name:        "America/Glace_Bay",
+					City:        "glace bay",
 				},
 				{
 					CountryCode: "CA",
 					Name:        "America/Goose_Bay",
+					City:        "goose bay",
 				},
 				{
 					CountryCode: "CA",
 					Name:        "America/Halifax",
+					City:        "halifax",
 				},
 				{
 					CountryCode: "CA",
 					Name:        "America/Inuvik",
+					City:        "inuvik",
 				},
 				{
 					CountryCode: "CA",
 					Name:        "America/Iqaluit",
+					City:        "iqaluit",
 				},
 				{
 					CountryCode: "CA",
 					Name:        "America/Moncton",
+					City:        "moncton",
 				},
 				{
 					CountryCode: "CA",
 					Name:        "America/Nipigon",
+					City:        "nipigon",
 				},
 				{
 					CountryCode: "CA",
 					Name:        "America/Pangnirtung",
+					City:        "pangnirtung",
 				},
 				{
 					CountryCode: "CA",
 					Name:        "America/Rainy_River",
+					City:        "rainy river",
 				},
 				{
 					CountryCode: "CA",
 					Name:        "America/Rankin_Inlet",
+					City:        "rankin inlet",
 				},
 				{
 					CountryCode: "CA",
 					Name:        "America/Regina",
+					City:        "regina",
 				},
 				{
 					CountryCode: "CA",
 					Name:        "America/Resolute",
+					City:        "resolute",
 				},
 				{
 					CountryCode: "CA",
 					Name:        "America/St_Johns",
+					City:        "st johns",
 				},
 				{
 					CountryCode: "CA",
 					Name:        "America/Swift_Current",
+					City:        "swift current",
 				},
 				{
 					CountryCode: "CA",
 					Name:        "America/Thunder_Bay",
+					City:        "thunder bay",
 				},
 				{
 					CountryCode: "CA",
 					Name:        "America/Toronto",
+					City:        "toronto",
 				},
 				{
 					CountryCode: "CA",
 					Name:        "America/Vancouver",
+					City:        "vancouver",
 				},
 				{
 					CountryCode: "CA",
 					Name:        "America/Whitehorse",
+					City:        "whitehorse",
 				},
 				{
 					CountryCode: "CA",
 					Name:        "America/Winnipeg",
+					City:        "winnipeg",
 				},
 				{
 					CountryCode: "CA",
 					Name:        "America/Yellowknife",
+					City:        "yellowknife",
 				},
 			},
 		},
@@ -696,6 +808,7 @@ var (
 				{
 					CountryCode: "CV",
 					Name:        "Atlantic/Cape_Verde",
+					City:        "cape verde",
 				},
 			},
 		},
@@ -706,6 +819,7 @@ var (
 				{
 					CountryCode: "KY",
 					Name:        "America/Cayman",
+					City:        "cayman",
 				},
 			},
 		},
@@ -716,6 +830,7 @@ var (
 				{
 					CountryCode: "CF",
 					Name:        "Africa/Bangui",
+					City:        "bangui",
 				},
 			},
 		},
@@ -726,6 +841,7 @@ var (
 				{
 					CountryCode: "TD",
 					Name:        "Africa/Ndjamena",
+					City:        "ndjamena",
 				},
 			},
 		},
@@ -736,14 +852,17 @@ var (
 				{
 					CountryCode: "CL",
 					Name:        "America/Punta_Arenas",
+					City:        "punta arenas",
 				},
 				{
 					CountryCode: "CL",
 					Name:        "America/Santiago",
+					City:        "santiago",
 				},
 				{
 					CountryCode: "CL",
 					Name:        "Pacific/Easter",
+					City:        "easter",
 				},
 			},
 		},
@@ -754,10 +873,12 @@ var (
 				{
 					CountryCode: "CN",
 					Name:        "Asia/Shanghai",
+					City:        "shanghai",
 				},
 				{
 					CountryCode: "CN",
 					Name:        "Asia/Urumqi",
+					City:        "urumqi",
 				},
 			},
 		},
@@ -768,6 +889,7 @@ var (
 				{
 					CountryCode: "CX",
 					Name:        "Indian/Christmas",
+					City:        "christmas",
 				},
 			},
 		},
@@ -778,6 +900,7 @@ var (
 				{
 					CountryCode: "CC",
 					Name:        "Indian/Cocos",
+					City:        "cocos",
 				},
 			},
 		},
@@ -788,6 +911,7 @@ var (
 				{
 					CountryCode: "CO",
 					Name:        "America/Bogota",
+					City:        "bogota",
 				},
 			},
 		},
@@ -798,6 +922,7 @@ var (
 				{
 					CountryCode: "KM",
 					Name:        "Indian/Comoro",
+					City:        "comoro",
 				},
 			},
 		},
@@ -808,6 +933,7 @@ var (
 				{
 					CountryCode: "CG",
 					Name:        "Africa/Brazzaville",
+					City:        "brazzaville",
 				},
 			},
 		},
@@ -818,10 +944,12 @@ var (
 				{
 					CountryCode: "CD",
 					Name:        "Africa/Kinshasa",
+					City:        "kinshasa",
 				},
 				{
 					CountryCode: "CD",
 					Name:        "Africa/Lubumbashi",
+					City:        "lubumbashi",
 				},
 			},
 		},
@@ -832,6 +960,7 @@ var (
 				{
 					CountryCode: "CK",
 					Name:        "Pacific/Rarotonga",
+					City:        "rarotonga",
 				},
 			},
 		},
@@ -842,6 +971,7 @@ var (
 				{
 					CountryCode: "CR",
 					Name:        "America/Costa_Rica",
+					City:        "costa rica",
 				},
 			},
 		},
@@ -852,6 +982,7 @@ var (
 				{
 					CountryCode: "HR",
 					Name:        "Europe/Zagreb",
+					City:        "zagreb",
 				},
 			},
 		},
@@ -862,6 +993,7 @@ var (
 				{
 					CountryCode: "CU",
 					Name:        "America/Havana",
+					City:        "havana",
 				},
 			},
 		},
@@ -872,6 +1004,7 @@ var (
 				{
 					CountryCode: "CW",
 					Name:        "America/Curacao",
+					City:        "curacao",
 				},
 			},
 		},
@@ -882,10 +1015,12 @@ var (
 				{
 					CountryCode: "CY",
 					Name:        "Asia/Famagusta",
+					City:        "famagusta",
 				},
 				{
 					CountryCode: "CY",
 					Name:        "Asia/Nicosia",
+					City:        "nicosia",
 				},
 			},
 		},
@@ -896,6 +1031,7 @@ var (
 				{
 					CountryCode: "CZ",
 					Name:        "Europe/Prague",
+					City:        "prague",
 				},
 			},
 		},
@@ -906,6 +1042,7 @@ var (
 				{
 					CountryCode: "CI",
 					Name:        "Africa/Abidjan",
+					City:        "abidjan",
 				},
 			},
 		},
@@ -916,6 +1053,7 @@ var (
 				{
 					CountryCode: "DK",
 					Name:        "Europe/Copenhagen",
+					City:        "copenhagen",
 				},
 			},
 		},
@@ -926,6 +1064,7 @@ var (
 				{
 					CountryCode: "DJ",
 					Name:        "Africa/Djibouti",
+					City:        "djibouti",
 				},
 			},
 		},
@@ -936,6 +1075,7 @@ var (
 				{
 					CountryCode: "DM",
 					Name:        "America/Dominica",
+					City:        "dominica",
 				},
 			},
 		},
@@ -946,6 +1086,7 @@ var (
 				{
 					CountryCode: "DO",
 					Name:        "America/Santo_Domingo",
+					City:        "santo domingo",
 				},
 			},
 		},
@@ -956,10 +1097,12 @@ var (
 				{
 					CountryCode: "EC",
 					Name:        "America/Guayaquil",
+					City:        "guayaquil",
 				},
 				{
 					CountryCode: "EC",
 					Name:        "Pacific/Galapagos",
+					City:        "galapagos",
 				},
 			},
 		},
@@ -970,6 +1113,7 @@ var (
 				{
 					CountryCode: "EG",
 					Name:        "Africa/Cairo",
+					City:        "cairo",
 				},
 			},
 		},
@@ -980,6 +1124,7 @@ var (
 				{
 					CountryCode: "SV",
 					Name:        "America/El_Salvador",
+					City:        "el salvador",
 				},
 			},
 		},
@@ -990,6 +1135,7 @@ var (
 				{
 					CountryCode: "GQ",
 					Name:        "Africa/Malabo",
+					City:        "malabo",
 				},
 			},
 		},
@@ -1000,6 +1146,7 @@ var (
 				{
 					CountryCode: "ER",
 					Name:        "Africa/Asmara",
+					City:        "asmara",
 				},
 			},
 		},
@@ -1010,6 +1157,7 @@ var (
 				{
 					CountryCode: "EE",
 					Name:        "Europe/Tallinn",
+					City:        "tallinn",
 				},
 			},
 		},
@@ -1020,6 +1168,7 @@ var (
 				{
 					CountryCode: "ET",
 					Name:        "Africa/Addis_Ababa",
+					City:        "addis ababa",
 				},
 			},
 		},
@@ -1030,6 +1179,7 @@ var (
 				{
 					CountryCode: "FK",
 					Name:        "Atlantic/Stanley",
+					City:        "stanley",
 				},
 			},
 		},
@@ -1040,6 +1190,7 @@ var (
 				{
 					CountryCode: "FO",
 					Name:        "Atlantic/Faroe",
+					City:        "faroe",
 				},
 			},
 		},
@@ -1050,6 +1201,7 @@ var (
 				{
 					CountryCode: "FJ",
 					Name:        "Pacific/Fiji",
+					City:        "fiji",
 				},
 			},
 		},
@@ -1060,6 +1212,7 @@ var (
 				{
 					CountryCode: "FI",
 					Name:        "Europe/Helsinki",
+					City:        "helsinki",
 				},
 			},
 		},
@@ -1070,6 +1223,7 @@ var (
 				{
 					CountryCode: "FR",
 					Name:        "Europe/Paris",
+					City:        "paris",
 				},
 			},
 		},
@@ -1080,6 +1234,7 @@ var (
 				{
 					CountryCode: "GF",
 					Name:        "America/Cayenne",
+					City:        "cayenne",
 				},
 			},
 		},
@@ -1090,14 +1245,17 @@ var (
 				{
 					CountryCode: "PF",
 					Name:        "Pacific/Gambier",
+					City:        "gambier",
 				},
 				{
 					CountryCode: "PF",
 					Name:        "Pacific/Marquesas",
+					City:        "marquesas",
 				},
 				{
 					CountryCode: "PF",
 					Name:        "Pacific/Tahiti",
+					City:        "tahiti",
 				},
 			},
 		},
@@ -1108,6 +1266,7 @@ var (
 				{
 					CountryCode: "TF",
 					Name:        "Indian/Kerguelen",
+					City:        "kerguelen",
 				},
 			},
 		},
@@ -1118,6 +1277,7 @@ var (
 				{
 					CountryCode: "GA",
 					Name:        "Africa/Libreville",
+					City:        "libreville",
 				},
 			},
 		},
@@ -1128,6 +1288,7 @@ var (
 				{
 					CountryCode: "GM",
 					Name:        "Africa/Banjul",
+					City:        "banjul",
 				},
 			},
 		},
@@ -1138,6 +1299,7 @@ var (
 				{
 					CountryCode: "GE",
 					Name:        "Asia/Tbilisi",
+					City:        "tbilisi",
 				},
 			},
 		},
@@ -1148,10 +1310,12 @@ var (
 				{
 					CountryCode: "DE",
 					Name:        "Europe/Berlin",
+					City:        "berlin",
 				},
 				{
 					CountryCode: "DE",
 					Name:        "Europe/Busingen",
+					City:        "busingen",
 				},
 			},
 		},
@@ -1162,6 +1326,7 @@ var (
 				{
 					CountryCode: "GH",
 					Name:        "Africa/Accra",
+					City:        "accra",
 				},
 			},
 		},
@@ -1172,6 +1337,7 @@ var (
 				{
 					CountryCode: "GI",
 					Name:        "Europe/Gibraltar",
+					City:        "gibraltar",
 				},
 			},
 		},
@@ -1182,6 +1348,7 @@ var (
 				{
 					CountryCode: "GR",
 					Name:        "Europe/Athens",
+					City:        "athens",
 				},
 			},
 		},
@@ -1192,18 +1359,22 @@ var (
 				{
 					CountryCode: "GL",
 					Name:        "America/Danmarkshavn",
+					City:        "danmarkshavn",
 				},
 				{
 					CountryCode: "GL",
 					Name:        "America/Godthab",
+					City:        "godthab",
 				},
 				{
 					CountryCode: "GL",
 					Name:        "America/Scoresbysund",
+					City:        "scoresbysund",
 				},
 				{
 					CountryCode: "GL",
 					Name:        "America/Thule",
+					City:        "thule",
 				},
 			},
 		},
@@ -1214,6 +1385,7 @@ var (
 				{
 					CountryCode: "GD",
 					Name:        "America/Grenada",
+					City:        "grenada",
 				},
 			},
 		},
@@ -1224,6 +1396,7 @@ var (
 				{
 					CountryCode: "GP",
 					Name:        "America/Guadeloupe",
+					City:        "guadeloupe",
 				},
 			},
 		},
@@ -1234,6 +1407,7 @@ var (
 				{
 					CountryCode: "GU",
 					Name:        "Pacific/Guam",
+					City:        "guam",
 				},
 			},
 		},
@@ -1244,6 +1418,7 @@ var (
 				{
 					CountryCode: "GT",
 					Name:        "America/Guatemala",
+					City:        "guatemala",
 				},
 			},
 		},
@@ -1254,6 +1429,7 @@ var (
 				{
 					CountryCode: "GG",
 					Name:        "Europe/Guernsey",
+					City:        "guernsey",
 				},
 			},
 		},
@@ -1264,6 +1440,7 @@ var (
 				{
 					CountryCode: "GN",
 					Name:        "Africa/Conakry",
+					City:        "conakry",
 				},
 			},
 		},
@@ -1274,6 +1451,7 @@ var (
 				{
 					CountryCode: "GW",
 					Name:        "Africa/Bissau",
+					City:        "bissau",
 				},
 			},
 		},
@@ -1284,6 +1462,7 @@ var (
 				{
 					CountryCode: "GY",
 					Name:        "America/Guyana",
+					City:        "guyana",
 				},
 			},
 		},
@@ -1294,6 +1473,7 @@ var (
 				{
 					CountryCode: "HT",
 					Name:        "America/Port-au-Prince",
+					City:        "port-au-prince",
 				},
 			},
 		},
@@ -1309,6 +1489,7 @@ var (
 				{
 					CountryCode: "VA",
 					Name:        "Europe/Vatican",
+					City:        "vatican",
 				},
 			},
 		},
@@ -1319,6 +1500,7 @@ var (
 				{
 					CountryCode: "HN",
 					Name:        "America/Tegucigalpa",
+					City:        "tegucigalpa",
 				},
 			},
 		},
@@ -1329,6 +1511,7 @@ var (
 				{
 					CountryCode: "HK",
 					Name:        "Asia/Hong_Kong",
+					City:        "hong kong",
 				},
 			},
 		},
@@ -1339,6 +1522,7 @@ var (
 				{
 					CountryCode: "HU",
 					Name:        "Europe/Budapest",
+					City:        "budapest",
 				},
 			},
 		},
@@ -1349,6 +1533,7 @@ var (
 				{
 					CountryCode: "IS",
 					Name:        "Atlantic/Reykjavik",
+					City:        "reykjavik",
 				},
 			},
 		},
@@ -1359,6 +1544,7 @@ var (
 				{
 					CountryCode: "IN",
 					Name:        "Asia/Kolkata",
+					City:        "kolkata",
 				},
 			},
 		},
@@ -1369,18 +1555,22 @@ var (
 				{
 					CountryCode: "ID",
 					Name:        "Asia/Jakarta",
+					City:        "jakarta",
 				},
 				{
 					CountryCode: "ID",
 					Name:        "Asia/Jayapura",
+					City:        "jayapura",
 				},
 				{
 					CountryCode: "ID",
 					Name:        "Asia/Makassar",
+					City:        "makassar",
 				},
 				{
 					CountryCode: "ID",
 					Name:        "Asia/Pontianak",
+					City:        "pontianak",
 				},
 			},
 		},
@@ -1391,6 +1581,7 @@ var (
 				{
 					CountryCode: "IR",
 					Name:        "Asia/Tehran",
+					City:        "tehran",
 				},
 			},
 		},
@@ -1401,6 +1592,7 @@ var (
 				{
 					CountryCode: "IQ",
 					Name:        "Asia/Baghdad",
+					City:        "baghdad",
 				},
 			},
 		},
@@ -1411,6 +1603,7 @@ var (
 				{
 					CountryCode: "IE",
 					Name:        "Europe/Dublin",
+					City:        "dublin",
 				},
 			},
 		},
@@ -1421,6 +1614,7 @@ var (
 				{
 					CountryCode: "IM",
 					Name:        "Europe/Isle_of_Man",
+					City:        "isle of man",
 				},
 			},
 		},
@@ -1431,6 +1625,7 @@ var (
 				{
 					CountryCode: "IL",
 					Name:        "Asia/Jerusalem",
+					City:        "jerusalem",
 				},
 			},
 		},
@@ -1441,6 +1636,7 @@ var (
 				{
 					CountryCode: "IT",
 					Name:        "Europe/Rome",
+					City:        "rome",
 				},
 			},
 		},
@@ -1451,6 +1647,7 @@ var (
 				{
 					CountryCode: "JM",
 					Name:        "America/Jamaica",
+					City:        "jamaica",
 				},
 			},
 		},
@@ -1461,6 +1658,7 @@ var (
 				{
 					CountryCode: "JP",
 					Name:        "Asia/Tokyo",
+					City:        "tokyo",
 				},
 			},
 		},
@@ -1471,6 +1669,7 @@ var (
 				{
 					CountryCode: "JE",
 					Name:        "Europe/Jersey",
+					City:        "jersey",
 				},
 			},
 		},
@@ -1481,6 +1680,7 @@ var (
 				{
 					CountryCode: "JO",
 					Name:        "Asia/Amman",
+					City:        "amman",
 				},
 			},
 		},
@@ -1491,30 +1691,37 @@ var (
 				{
 					CountryCode: "KZ",
 					Name:        "Asia/Almaty",
+					City:        "almaty",
 				},
 				{
 					CountryCode: "KZ",
 					Name:        "Asia/Aqtau",
+					City:        "aqtau",
 				},
 				{
 					CountryCode: "KZ",
 					Name:        "Asia/Aqtobe",
+					City:        "aqtobe",
 				},
 				{
 					CountryCode: "KZ",
 					Name:        "Asia/Atyrau",
+					City:        "atyrau",
 				},
 				{
 					CountryCode: "KZ",
 					Name:        "Asia/Oral",
+					City:        "oral",
 				},
 				{
 					CountryCode: "KZ",
 					Name:        "Asia/Qostanay",
+					City:        "qostanay",
 				},
 				{
 					CountryCode: "KZ",
 					Name:        "Asia/Qyzylorda",
+					City:        "qyzylorda",
 				},
 			},
 		},
@@ -1525,6 +1732,7 @@ var (
 				{
 					CountryCode: "KE",
 					Name:        "Africa/Nairobi",
+					City:        "nairobi",
 				},
 			},
 		},
@@ -1535,14 +1743,17 @@ var (
 				{
 					CountryCode: "KI",
 					Name:        "Pacific/Enderbury",
+					City:        "enderbury",
 				},
 				{
 					CountryCode: "KI",
 					Name:        "Pacific/Kiritimati",
+					City:        "kiritimati",
 				},
 				{
 					CountryCode: "KI",
 					Name:        "Pacific/Tarawa",
+					City:        "tarawa",
 				},
 			},
 		},
@@ -1553,6 +1764,7 @@ var (
 				{
 					CountryCode: "KP",
 					Name:        "Asia/Pyongyang",
+					City:        "pyongyang",
 				},
 			},
 		},
@@ -1563,6 +1775,7 @@ var (
 				{
 					CountryCode: "KR",
 					Name:        "Asia/Seoul",
+					City:        "seoul",
 				},
 			},
 		},
@@ -1573,6 +1786,7 @@ var (
 				{
 					CountryCode: "KW",
 					Name:        "Asia/Kuwait",
+					City:        "kuwait",
 				},
 			},
 		},
@@ -1583,6 +1797,7 @@ var (
 				{
 					CountryCode: "KG",
 					Name:        "Asia/Bishkek",
+					City:        "bishkek",
 				},
 			},
 		},
@@ -1593,6 +1808,7 @@ var (
 				{
 					CountryCode: "LA",
 					Name:        "Asia/Vientiane",
+					City:        "vientiane",
 				},
 			},
 		},
@@ -1603,6 +1819,7 @@ var (
 				{
 					CountryCode: "LV",
 					Name:        "Europe/Riga",
+					City:        "riga",
 				},
 			},
 		},
@@ -1613,6 +1830,7 @@ var (
 				{
 					CountryCode: "LB",
 					Name:        "Asia/Beirut",
+					City:        "beirut",
 				},
 			},
 		},
@@ -1623,6 +1841,7 @@ var (
 				{
 					CountryCode: "LS",
 					Name:        "Africa/Maseru",
+					City:        "maseru",
 				},
 			},
 		},
@@ -1633,6 +1852,7 @@ var (
 				{
 					CountryCode: "LR",
 					Name:        "Africa/Monrovia",
+					City:        "monrovia",
 				},
 			},
 		},
@@ -1643,6 +1863,7 @@ var (
 				{
 					CountryCode: "LY",
 					Name:        "Africa/Tripoli",
+					City:        "tripoli",
 				},
 			},
 		},
@@ -1653,6 +1874,7 @@ var (
 				{
 					CountryCode: "LI",
 					Name:        "Europe/Vaduz",
+					City:        "vaduz",
 				},
 			},
 		},
@@ -1663,6 +1885,7 @@ var (
 				{
 					CountryCode: "LT",
 					Name:        "Europe/Vilnius",
+					City:        "vilnius",
 				},
 			},
 		},
@@ -1673,6 +1896,7 @@ var (
 				{
 					CountryCode: "LU",
 					Name:        "Europe/Luxembourg",
+					City:        "luxembourg",
 				},
 			},
 		},
@@ -1683,6 +1907,7 @@ var (
 				{
 					CountryCode: "MO",
 					Name:        "Asia/Macau",
+					City:        "macau",
 				},
 			},
 		},
@@ -1693,6 +1918,7 @@ var (
 				{
 					CountryCode: "MK",
 					Name:        "Europe/Skopje",
+					City:        "skopje",
 				},
 			},
 		},
@@ -1703,6 +1929,7 @@ var (
 				{
 					CountryCode: "MG",
 					Name:        "Indian/Antananarivo",
+					City:        "antananarivo",
 				},
 			},
 		},
@@ -1713,6 +1940,7 @@ var (
 				{
 					CountryCode: "MW",
 					Name:        "Africa/Blantyre",
+					City:        "blantyre",
 				},
 			},
 		},
@@ -1723,10 +1951,12 @@ var (
 				{
 					CountryCode: "MY",
 					Name:        "Asia/Kuala_Lumpur",
+					City:        "kuala lumpur",
 				},
 				{
 					CountryCode: "MY",
 					Name:        "Asia/Kuching",
+					City:        "kuching",
 				},
 			},
 		},
@@ -1737,6 +1967,7 @@ var (
 				{
 					CountryCode: "MV",
 					Name:        "Indian/Maldives",
+					City:        "maldives",
 				},
 			},
 		},
@@ -1747,6 +1978,7 @@ var (
 				{
 					CountryCode: "ML",
 					Name:        "Africa/Bamako",
+					City:        "bamako",
 				},
 			},
 		},
@@ -1757,6 +1989,7 @@ var (
 				{
 					CountryCode: "MT",
 					Name:        "Europe/Malta",
+					City:        "malta",
 				},
 			},
 		},
@@ -1767,10 +2000,12 @@ var (
 				{
 					CountryCode: "MH",
 					Name:        "Pacific/Kwajalein",
+					City:        "kwajalein",
 				},
 				{
 					CountryCode: "MH",
 					Name:        "Pacific/Majuro",
+					City:        "majuro",
 				},
 			},
 		},
@@ -1781,6 +2016,7 @@ var (
 				{
 					CountryCode: "MQ",
 					Name:        "America/Martinique",
+					City:        "martinique",
 				},
 			},
 		},
@@ -1791,6 +2027,7 @@ var (
 				{
 					CountryCode: "MR",
 					Name:        "Africa/Nouakchott",
+					City:        "nouakchott",
 				},
 			},
 		},
@@ -1801,6 +2038,7 @@ var (
 				{
 					CountryCode: "MU",
 					Name:        "Indian/Mauritius",
+					City:        "mauritius",
 				},
 			},
 		},
@@ -1811,6 +2049,7 @@ var (
 				{
 					CountryCode: "YT",
 					Name:        "Indian/Mayotte",
+					City:        "mayotte",
 				},
 			},
 		},
@@ -1821,46 +2060,57 @@ var (
 				{
 					CountryCode: "MX",
 					Name:        "America/Bahia_Banderas",
+					City:        "bahia banderas",
 				},
 				{
 					CountryCode: "MX",
 					Name:        "America/Cancun",
+					City:        "cancun",
 				},
 				{
 					CountryCode: "MX",
 					Name:        "America/Chihuahua",
+					City:        "chihuahua",
 				},
 				{
 					CountryCode: "MX",
 					Name:        "America/Hermosillo",
+					City:        "hermosillo",
 				},
 				{
 					CountryCode: "MX",
 					Name:        "America/Matamoros",
+					City:        "matamoros",
 				},
 				{
 					CountryCode: "MX",
 					Name:        "America/Mazatlan",
+					City:        "mazatlan",
 				},
 				{
 					CountryCode: "MX",
 					Name:        "America/Merida",
+					City:        "merida",
 				},
 				{
 					CountryCode: "MX",
 					Name:        "America/Mexico_City",
+					City:        "mexico city",
 				},
 				{
 					CountryCode: "MX",
 					Name:        "America/Monterrey",
+					City:        "monterrey",
 				},
 				{
 					CountryCode: "MX",
 					Name:        "America/Ojinaga",
+					City:        "ojinaga",
 				},
 				{
 					CountryCode: "MX",
 					Name:        "America/Tijuana",
+					City:        "tijuana",
 				},
 			},
 		},
@@ -1871,14 +2121,17 @@ var (
 				{
 					CountryCode: "FM",
 					Name:        "Pacific/Chuuk",
+					City:        "chuuk",
 				},
 				{
 					CountryCode: "FM",
 					Name:        "Pacific/Kosrae",
+					City:        "kosrae",
 				},
 				{
 					CountryCode: "FM",
 					Name:        "Pacific/Pohnpei",
+					City:        "pohnpei",
 				},
 			},
 		},
@@ -1889,6 +2142,7 @@ var (
 				{
 					CountryCode: "MD",
 					Name:        "Europe/Chisinau",
+					City:        "chisinau",
 				},
 			},
 		},
@@ -1899,6 +2153,7 @@ var (
 				{
 					CountryCode: "MC",
 					Name:        "Europe/Monaco",
+					City:        "monaco",
 				},
 			},
 		},
@@ -1909,14 +2164,17 @@ var (
 				{
 					CountryCode: "MN",
 					Name:        "Asia/Choibalsan",
+					City:        "choibalsan",
 				},
 				{
 					CountryCode: "MN",
 					Name:        "Asia/Hovd",
+					City:        "hovd",
 				},
 				{
 					CountryCode: "MN",
 					Name:        "Asia/Ulaanbaatar",
+					City:        "ulaanbaatar",
 				},
 			},
 		},
@@ -1927,6 +2185,7 @@ var (
 				{
 					CountryCode: "ME",
 					Name:        "Europe/Podgorica",
+					City:        "podgorica",
 				},
 			},
 		},
@@ -1937,6 +2196,7 @@ var (
 				{
 					CountryCode: "MS",
 					Name:        "America/Montserrat",
+					City:        "montserrat",
 				},
 			},
 		},
@@ -1947,6 +2207,7 @@ var (
 				{
 					CountryCode: "MA",
 					Name:        "Africa/Casablanca",
+					City:        "casablanca",
 				},
 			},
 		},
@@ -1957,6 +2218,7 @@ var (
 				{
 					CountryCode: "MZ",
 					Name:        "Africa/Maputo",
+					City:        "maputo",
 				},
 			},
 		},
@@ -1967,6 +2229,7 @@ var (
 				{
 					CountryCode: "MM",
 					Name:        "Asia/Yangon",
+					City:        "yangon",
 				},
 			},
 		},
@@ -1977,6 +2240,7 @@ var (
 				{
 					CountryCode: "NA",
 					Name:        "Africa/Windhoek",
+					City:        "windhoek",
 				},
 			},
 		},
@@ -1987,6 +2251,7 @@ var (
 				{
 					CountryCode: "NR",
 					Name:        "Pacific/Nauru",
+					City:        "nauru",
 				},
 			},
 		},
@@ -1997,6 +2262,7 @@ var (
 				{
 					CountryCode: "NP",
 					Name:        "Asia/Kathmandu",
+					City:        "kathmandu",
 				},
 			},
 		},
@@ -2007,6 +2273,7 @@ var (
 				{
 					CountryCode: "NL",
 					Name:        "Europe/Amsterdam",
+					City:        "amsterdam",
 				},
 			},
 		},
@@ -2017,6 +2284,7 @@ var (
 				{
 					CountryCode: "NC",
 					Name:        "Pacific/Noumea",
+					City:        "noumea",
 				},
 			},
 		},
@@ -2027,10 +2295,12 @@ var (
 				{
 					CountryCode: "NZ",
 					Name:        "Pacific/Auckland",
+					City:        "auckland",
 				},
 				{
 					CountryCode: "NZ",
 					Name:        "Pacific/Chatham",
+					City:        "chatham",
 				},
 			},
 		},
@@ -2041,6 +2311,7 @@ var (
 				{
 					CountryCode: "NI",
 					Name:        "America/Managua",
+					City:        "managua",
 				},
 			},
 		},
@@ -2051,6 +2322,7 @@ var (
 				{
 					CountryCode: "NE",
 					Name:        "Africa/Niamey",
+					City:        "niamey",
 				},
 			},
 		},
@@ -2061,6 +2333,7 @@ var (
 				{
 					CountryCode: "NG",
 					Name:        "Africa/Lagos",
+					City:        "lagos",
 				},
 			},
 		},
@@ -2071,6 +2344,7 @@ var (
 				{
 					CountryCode: "NU",
 					Name:        "Pacific/Niue",
+					City:        "niue",
 				},
 			},
 		},
@@ -2081,6 +2355,7 @@ var (
 				{
 					CountryCode: "NF",
 					Name:        "Pacific/Norfolk",
+					City:        "norfolk",
 				},
 			},
 		},
@@ -2091,6 +2366,7 @@ var (
 				{
 					CountryCode: "MP",
 					Name:        "Pacific/Saipan",
+					City:        "saipan",
 				},
 			},
 		},
@@ -2101,6 +2377,7 @@ var (
 				{
 					CountryCode: "NO",
 					Name:        "Europe/Oslo",
+					City:        "oslo",
 				},
 			},
 		},
@@ -2111,6 +2388,7 @@ var (
 				{
 					CountryCode: "OM",
 					Name:        "Asia/Muscat",
+					City:        "muscat",
 				},
 			},
 		},
@@ -2121,6 +2399,7 @@ var (
 				{
 					CountryCode: "PK",
 					Name:        "Asia/Karachi",
+					City:        "karachi",
 				},
 			},
 		},
@@ -2131,6 +2410,7 @@ var (
 				{
 					CountryCode: "PW",
 					Name:        "Pacific/Palau",
+					City:        "palau",
 				},
 			},
 		},
@@ -2141,10 +2421,12 @@ var (
 				{
 					CountryCode: "PS",
 					Name:        "Asia/Gaza",
+					City:        "gaza",
 				},
 				{
 					CountryCode: "PS",
 					Name:        "Asia/Hebron",
+					City:        "hebron",
 				},
 			},
 		},
@@ -2155,6 +2437,7 @@ var (
 				{
 					CountryCode: "PA",
 					Name:        "America/Panama",
+					City:        "panama",
 				},
 			},
 		},
@@ -2165,10 +2448,12 @@ var (
 				{
 					CountryCode: "PG",
 					Name:        "Pacific/Bougainville",
+					City:        "bougainville",
 				},
 				{
 					CountryCode: "PG",
 					Name:        "Pacific/Port_Moresby",
+					City:        "port moresby",
 				},
 			},
 		},
@@ -2179,6 +2464,7 @@ var (
 				{
 					CountryCode: "PY",
 					Name:        "America/Asuncion",
+					City:        "asuncion",
 				},
 			},
 		},
@@ -2189,6 +2475,7 @@ var (
 				{
 					CountryCode: "PE",
 					Name:        "America/Lima",
+					City:        "lima",
 				},
 			},
 		},
@@ -2199,6 +2486,7 @@ var (
 				{
 					CountryCode: "PH",
 					Name:        "Asia/Manila",
+					City:        "manila",
 				},
 			},
 		},
@@ -2209,6 +2497,7 @@ var (
 				{
 					CountryCode: "PN",
 					Name:        "Pacific/Pitcairn",
+					City:        "pitcairn",
 				},
 			},
 		},
@@ -2219,6 +2508,7 @@ var (
 				{
 					CountryCode: "PL",
 					Name:        "Europe/Warsaw",
+					City:        "warsaw",
 				},
 			},
 		},
@@ -2229,14 +2519,17 @@ var (
 				{
 					CountryCode: "PT",
 					Name:        "Atlantic/Azores",
+					City:        "azores",
 				},
 				{
 					CountryCode: "PT",
 					Name:        "Atlantic/Madeira",
+					City:        "madeira",
 				},
 				{
 					CountryCode: "PT",
 					Name:        "Europe/Lisbon",
+					City:        "lisbon",
 				},
 			},
 		},
@@ -2247,6 +2540,7 @@ var (
 				{
 					CountryCode: "PR",
 					Name:        "America/Puerto_Rico",
+					City:        "puerto rico",
 				},
 			},
 		},
@@ -2257,6 +2551,7 @@ var (
 				{
 					CountryCode: "QA",
 					Name:        "Asia/Qatar",
+					City:        "qatar",
 				},
 			},
 		},
@@ -2267,6 +2562,7 @@ var (
 				{
 					CountryCode: "RO",
 					Name:        "Europe/Bucharest",
+					City:        "bucharest",
 				},
 			},
 		},
@@ -2277,106 +2573,132 @@ var (
 				{
 					CountryCode: "RU",
 					Name:        "Asia/Anadyr",
+					City:        "anadyr",
 				},
 				{
 					CountryCode: "RU",
 					Name:        "Asia/Barnaul",
+					City:        "barnaul",
 				},
 				{
 					CountryCode: "RU",
 					Name:        "Asia/Chita",
+					City:        "chita",
 				},
 				{
 					CountryCode: "RU",
 					Name:        "Asia/Irkutsk",
+					City:        "irkutsk",
 				},
 				{
 					CountryCode: "RU",
 					Name:        "Asia/Kamchatka",
+					City:        "kamchatka",
 				},
 				{
 					CountryCode: "RU",
 					Name:        "Asia/Khandyga",
+					City:        "khandyga",
 				},
 				{
 					CountryCode: "RU",
 					Name:        "Asia/Krasnoyarsk",
+					City:        "krasnoyarsk",
 				},
 				{
 					CountryCode: "RU",
 					Name:        "Asia/Magadan",
+					City:        "magadan",
 				},
 				{
 					CountryCode: "RU",
 					Name:        "Asia/Novokuznetsk",
+					City:        "novokuznetsk",
 				},
 				{
 					CountryCode: "RU",
 					Name:        "Asia/Novosibirsk",
+					City:        "novosibirsk",
 				},
 				{
 					CountryCode: "RU",
 					Name:        "Asia/Omsk",
+					City:        "omsk",
 				},
 				{
 					CountryCode: "RU",
 					Name:        "Asia/Sakhalin",
+					City:        "sakhalin",
 				},
 				{
 					CountryCode: "RU",
 					Name:        "Asia/Srednekolymsk",
+					City:        "srednekolymsk",
 				},
 				{
 					CountryCode: "RU",
 					Name:        "Asia/Tomsk",
+					City:        "tomsk",
 				},
 				{
 					CountryCode: "RU",
 					Name:        "Asia/Ust-Nera",
+					City:        "ust-nera",
 				},
 				{
 					CountryCode: "RU",
 					Name:        "Asia/Vladivostok",
+					City:        "vladivostok",
 				},
 				{
 					CountryCode: "RU",
 					Name:        "Asia/Yakutsk",
+					City:        "yakutsk",
 				},
 				{
 					CountryCode: "RU",
 					Name:        "Asia/Yekaterinburg",
+					City:        "yekaterinburg",
 				},
 				{
 					CountryCode: "RU",
 					Name:        "Europe/Astrakhan",
+					City:        "astrakhan",
 				},
 				{
 					CountryCode: "RU",
 					Name:        "Europe/Kaliningrad",
+					City:        "kaliningrad",
 				},
 				{
 					CountryCode: "RU",
 					Name:        "Europe/Kirov",
+					City:        "kirov",
 				},
 				{
 					CountryCode: "RU",
 					Name:        "Europe/Moscow",
+					City:        "moscow",
 				},
 				{
 					CountryCode: "RU",
 					Name:        "Europe/Samara",
+					City:        "samara",
 				},
 				{
 					CountryCode: "RU",
 					Name:        "Europe/Saratov",
+					City:        "saratov",
 				},
 				{
 					CountryCode: "RU",
 					Name:        "Europe/Ulyanovsk",
+					City:        "ulyanovsk",
 				},
 				{
 					CountryCode: "RU",
 					Name:        "Europe/Volgograd",
+					City:        "volgograd",
 				},
 			},
 		},
@@ -2387,6 +2709,7 @@ var (
 				{
 					CountryCode: "RW",
 					Name:        "Africa/Kigali",
+					City:        "kigali",
 				},
 			},
 		},
@@ -2397,6 +2720,7 @@ var (
 				{
 					CountryCode: "RE",
 					Name:        "Indian/Reunion",
+					City:        "reunion",
 				},
 			},
 		},
@@ -2407,6 +2731,7 @@ var (
 				{
 					CountryCode: "BL",
 					Name:        "America/St_Barthelemy",
+					City:        "st barthelemy",
 				},
 			},
 		},
@@ -2417,6 +2742,7 @@ var (
 				{
 					CountryCode: "SH",
 					Name:        "Atlantic/St_Helena",
+					City:        "st helena",
 				},
 			},
 		},
@@ -2427,6 +2753,7 @@ var (
 				{
 					CountryCode: "KN",
 					Name:        "America/St_Kitts",
+					City:        "st kitts",
 				},
 			},
 		},
@@ -2437,6 +2764,7 @@ var (
 				{
 					CountryCode: "LC",
 					Name:        "America/St_Lucia",
+					City:        "st lucia",
 				},
 			},
 		},
@@ -2447,6 +2775,7 @@ var (
 				{
 					CountryCode: "MF",
 					Name:        "America/Marigot",
+					City:        "marigot",
 				},
 			},
 		},
@@ -2457,6 +2786,7 @@ var (
 				{
 					CountryCode: "PM",
 					Name:        "America/Miquelon",
+					City:        "miquelon",
 				},
 			},
 		},
@@ -2467,6 +2797,7 @@ var (
 				{
 					CountryCode: "VC",
 					Name:        "America/St_Vincent",
+					City:        "st vincent",
 				},
 			},
 		},
@@ -2477,6 +2808,7 @@ var (
 				{
 					CountryCode: "WS",
 					Name:        "Pacific/Apia",
+					City:        "apia",
 				},
 			},
 		},
@@ -2487,6 +2819,7 @@ var (
 				{
 					CountryCode: "SM",
 					Name:        "Europe/San_Marino",
+					City:        "san marino",
 				},
 			},
 		},
@@ -2497,6 +2830,7 @@ var (
 				{
 					CountryCode: "ST",
 					Name:        "Africa/Sao_Tome",
+					City:        "sao tome",
 				},
 			},
 		},
@@ -2507,6 +2841,7 @@ var (
 				{
 					CountryCode: "SA",
 					Name:        "Asia/Riyadh",
+					City:        "riyadh",
 				},
 			},
 		},
@@ -2517,6 +2852,7 @@ var (
 				{
 					CountryCode: "SN",
 					Name:        "Africa/Dakar",
+					City:        "dakar",
 				},
 			},
 		},
@@ -2527,6 +2863,7 @@ var (
 				{
 					CountryCode: "RS",
 					Name:        "Europe/Belgrade",
+					City:        "belgrade",
 				},
 			},
 		},
@@ -2537,6 +2874,7 @@ var (
 				{
 					CountryCode: "SC",
 					Name:        "Indian/Mahe",
+					City:        "mahe",
 				},
 			},
 		},
@@ -2547,6 +2885,7 @@ var (
 				{
 					CountryCode: "SL",
 					Name:        "Africa/Freetown",
+					City:        "freetown",
 				},
 			},
 		},
@@ -2557,6 +2896,7 @@ var (
 				{
 					CountryCode: "SG",
 					Name:        "Asia/Singapore",
+					City:        "singapore",
 				},
 			},
 		},
@@ -2567,6 +2907,7 @@ var (
 				{
 					CountryCode: "SX",
 					Name:        "America/Lower_Princes",
+					City:        "lower princes",
 				},
 			},
 		},
@@ -2577,6 +2918,7 @@ var (
 				{
 					CountryCode: "SK",
 					Name:        "Europe/Bratislava",
+					City:        "bratislava",
 				},
 			},
 		},
@@ -2587,6 +2929,7 @@ var (
 				{
 					CountryCode: "SI",
 					Name:        "Europe/Ljubljana",
+					City:        "ljubljana",
 				},
 			},
 		},
@@ -2597,6 +2940,7 @@ var (
 				{
 					CountryCode: "SB",
 					Name:        "Pacific/Guadalcanal",
+					City:        "guadalcanal",
 				},
 			},
 		},
@@ -2607,6 +2951,7 @@ var (
 				{
 					CountryCode: "SO",
 					Name:        "Africa/Mogadishu",
+					City:        "mogadishu",
 				},
 			},
 		},
@@ -2617,6 +2962,7 @@ var (
 				{
 					CountryCode: "ZA",
 					Name:        "Africa/Johannesburg",
+					City:        "johannesburg",
 				},
 			},
 		},
@@ -2627,6 +2973,7 @@ var (
 				{
 					CountryCode: "GS",
 					Name:        "Atlantic/South_Georgia",
+					City:        "south georgia",
 				},
 			},
 		},
@@ -2637,6 +2984,7 @@ var (
 				{
 					CountryCode: "SS",
 					Name:        "Africa/Juba",
+					City:        "juba",
 				},
 			},
 		},
@@ -2647,14 +2995,17 @@ var (
 				{
 					CountryCode: "ES",
 					Name:        "Africa/Ceuta",
+					City:        "ceuta",
 				},
 				{
 					CountryCode: "ES",
 					Name:        "Atlantic/Canary",
+					City:        "canary",
 				},
 				{
 					CountryCode: "ES",
 					Name:        "Europe/Madrid",
+					City:        "madrid",
 				},
 			},
 		},
@@ -2665,6 +3016,7 @@ var (
 				{
 					CountryCode: "LK",
 					Name:        "Asia/Colombo",
+					City:        "colombo",
 				},
 			},
 		},
@@ -2675,6 +3027,7 @@ var (
 				{
 					CountryCode: "SD",
 					Name:        "Africa/Khartoum",
+					City:        "khartoum",
 				},
 			},
 		},
@@ -2685,6 +3038,7 @@ var (
 				{
 					CountryCode: "SR",
 					Name:        "America/Paramaribo",
+					City:        "paramaribo",
 				},
 			},
 		},
@@ -2695,6 +3049,7 @@ var (
 				{
 					CountryCode: "SJ",
 					Name:        "Arctic/Longyearbyen",
+					City:        "longyearbyen",
 				},
 			},
 		},
@@ -2705,6 +3060,7 @@ var (
 				{
 					CountryCode: "SZ",
 					Name:        "Africa/Mbabane",
+					City:        "mbabane",
 				},
 			},
 		},
@@ -2715,6 +3071,7 @@ var (
 				{
 					CountryCode: "SE",
 					Name:        "Europe/Stockholm",
+					City:        "stockholm",
 				},
 			},
 		},
@@ -2725,6 +3082,7 @@ var (
 				{
 					CountryCode: "CH",
 					Name:        "Europe/Zurich",
+					City:        "zurich",
 				},
 			},
 		},
@@ -2735,6 +3093,7 @@ var (
 				{
 					CountryCode: "SY",
 					Name:        "Asia/Damascus",
+					City:        "damascus",
 				},
 			},
 		},
@@ -2745,6 +3104,7 @@ var (
 				{
 					CountryCode: "TW",
 					Name:        "Asia/Taipei",
+					City:        "taipei",
 				},
 			},
 		},
@@ -2755,6 +3115,7 @@ var (
 				{
 					CountryCode: "TJ",
 					Name:        "Asia/Dushanbe",
+					City:        "dushanbe",
 				},
 			},
 		},
@@ -2765,6 +3126,7 @@ var (
 				{
 					CountryCode: "TZ",
 					Name:        "Africa/Dar_es_Salaam",
+					City:        "dar es salaam",
 				},
 			},
 		},
@@ -2775,6 +3137,7 @@ var (
 				{
 					CountryCode: "TH",
 					Name:        "Asia/Bangkok",
+					City:        "bangkok",
 				},
 			},
 		},
@@ -2785,6 +3148,7 @@ var (
 				{
 					CountryCode: "TL",
 					Name:        "Asia/Dili",
+					City:        "dili",
 				},
 			},
 		},
@@ -2795,6 +3159,7 @@ var (
 				{
 					CountryCode: "TG",
 					Name:        "Africa/Lome",
+					City:        "lome",
 				},
 			},
 		},
@@ -2805,6 +3170,7 @@ var (
 				{
 					CountryCode: "TK",
 					Name:        "Pacific/Fakaofo",
+					City:        "fakaofo",
 				},
 			},
 		},
@@ -2815,6 +3181,7 @@ var (
 				{
 					CountryCode: "TO",
 					Name:        "Pacific/Tongatapu",
+					City:        "tongatapu",
 				},
 			},
 		},
@@ -2825,6 +3192,7 @@ var (
 				{
 					CountryCode: "TT",
 					Name:        "America/Port_of_Spain",
+					City:        "port of spain",
 				},
 			},
 		},
@@ -2835,6 +3203,7 @@ var (
 				{
 					CountryCode: "TN",
 					Name:        "Africa/Tunis",
+					City:        "tunis",
 				},
 			},
 		},
@@ -2845,6 +3214,7 @@ var (
 				{
 					CountryCode: "TR",
 					Name:        "Europe/Istanbul",
+					City:        "istanbul",
 				},
 			},
 		},
@@ -2855,6 +3225,7 @@ var (
 				{
 					CountryCode: "TM",
 					Name:        "Asia/Ashgabat",
+					City:        "ashgabat",
 				},
 			},
 		},
@@ -2865,6 +3236,7 @@ var (
 				{
 					CountryCode: "TC",
 					Name:        "America/Grand_Turk",
+					City:        "grand turk",
 				},
 			},
 		},
@@ -2875,6 +3247,7 @@ var (
 				{
 					CountryCode: "TV",
 					Name:        "Pacific/Funafuti",
+					City:        "funafuti",
 				},
 			},
 		},
@@ -2885,6 +3258,7 @@ var (
 				{
 					CountryCode: "UG",
 					Name:        "Africa/Kampala",
+					City:        "kampala",
 				},
 			},
 		},
@@ -2895,18 +3269,22 @@ var (
 				{
 					CountryCode: "UA",
 					Name:        "Europe/Kiev",
+					City:        "kiev",
 				},
 				{
 					CountryCode: "UA",
 					Name:        "Europe/Simferopol",
+					City:        "simferopol",
 				},
 				{
 					CountryCode: "UA",
 					Name:        "Europe/Uzhgorod",
+					City:        "uzhgorod",
 				},
 				{
 					CountryCode: "UA",
 					Name:        "Europe/Zaporozhye",
+					City:        "zaporozhye",
 				},
 			},
 		},
@@ -2917,6 +3295,7 @@ var (
 				{
 					CountryCode: "AE",
 					Name:        "Asia/Dubai",
+					City:        "dubai",
 				},
 			},
 		},
@@ -2927,6 +3306,7 @@ var (
 				{
 					CountryCode: "GB",
 					Name:        "Europe/London",
+					City:        "london",
 				},
 			},
 		},
@@ -2937,118 +3317,147 @@ var (
 				{
 					CountryCode: "US",
 					Name:        "America/Adak",
+					City:        "adak",
 				},
 				{
 					CountryCode: "US",
 					Name:        "America/Anchorage",
+					City:        "anchorage",
 				},
 				{
 					CountryCode: "US",
 					Name:        "America/Boise",
+					City:        "boise",
 				},
 				{
 					CountryCode: "US",
 					Name:        "America/Chicago",
+					City:        "chicago",
 				},
 				{
 					CountryCode: "US",
 					Name:        "America/Denver",
+					City:        "denver",
 				},
 				{
 					CountryCode: "US",
 					Name:        "America/Detroit",
+					City:        "detroit",
 				},
 				{
 					CountryCode: "US",
 					Name:        "America/Indiana/Indianapolis",
+					City:        "indianapolis",
 				},
 				{
 					CountryCode: "US",
 					Name:        "America/Indiana/Knox",
+					City:        "knox",
 				},
 				{
 					CountryCode: "US",
 					Name:        "America/Indiana/Marengo",
+					City:        "marengo",
 				},
 				{
 					CountryCode: "US",
 					Name:        "America/Indiana/Petersburg",
+					City:        "petersburg",
 				},
 				{
 					CountryCode: "US",
 					Name:        "America/Indiana/Tell_City",
+					City:        "tell city",
 				},
 				{
 					CountryCode: "US",
 					Name:        "America/Indiana/Vevay",
+					City:        "vevay",
 				},
 				{
 					CountryCode: "US",
 					Name:        "America/Indiana/Vincennes",
+					City:        "vincennes",
 				},
 				{
 					CountryCode: "US",
 					Name:        "America/Indiana/Winamac",
+					City:        "winamac",
 				},
 				{
 					CountryCode: "US",
 					Name:        "America/Juneau",
+					City:        "juneau",
 				},
 				{
 					CountryCode: "US",
 					Name:        "America/Kentucky/Louisville",
+					City:        "louisville",
 				},
 				{
 					CountryCode: "US",
 					Name:        "America/Kentucky/Monticello",
+					City:        "monticello",
 				},
 				{
 					CountryCode: "US",
 					Name:        "America/Los_Angeles",
+					City:        "los angeles",
 				},
 				{
 					CountryCode: "US",
 					Name:        "America/Menominee",
+					City:        "menominee",
 				},
 				{
 					CountryCode: "US",
 					Name:        "America/Metlakatla",
+					City:        "metlakatla",
 				},
 				{
 					CountryCode: "US",
 					Name:        "America/New_York",
+					City:        "new york",
 				},
 				{
 					CountryCode: "US",
 					Name:        "America/Nome",
+					City:        "nome",
 				},
 				{
 					CountryCode: "US",
 					Name:        "America/North_Dakota/Beulah",
+					City:        "beulah",
 				},
 				{
 					CountryCode: "US",
 					Name:        "America/North_Dakota/Center",
+					City:        "center",
 				},
 				{
 					CountryCode: "US",
 					Name:        "America/North_Dakota/New_Salem",
+					City:        "new salem",
 				},
 				{
 					CountryCode: "US",
 					Name:        "America/Phoenix",
+					City:        "phoenix",
 				},
 				{
 					CountryCode: "US",
 					Name:        "America/Sitka",
+					City:        "sitka",
 				},
 				{
 					CountryCode: "US",
 					Name:        "America/Yakutat",
+					City:        "yakutat",
 				},
 				{
 					CountryCode: "US",
 					Name:        "Pacific/Honolulu",
+					City:        "honolulu",
 				},
 			},
 		},
@@ -3059,10 +3468,12 @@ var (
 				{
 					CountryCode: "UM",
 					Name:        "Pacific/Midway",
+					City:        "midway",
 				},
 				{
 					CountryCode: "UM",
 					Name:        "Pacific/Wake",
+					City:        "wake",
 				},
 			},
 		},
@@ -3073,6 +3484,7 @@ var (
 				{
 					CountryCode: "UY",
 					Name:        "America/Montevideo",
+					City:        "montevideo",
 				},
 			},
 		},
@@ -3083,10 +3495,12 @@ var (
 				{
 					CountryCode: "UZ",
 					Name:        "Asia/Samarkand",
+					City:        "samarkand",
 				},
 				{
 					CountryCode: "UZ",
 					Name:        "Asia/Tashkent",
+					City:        "tashkent",
 				},
 			},
 		},
@@ -3097,6 +3511,7 @@ var (
 				{
 					CountryCode: "VU",
 					Name:        "Pacific/Efate",
+					City:        "efate",
 				},
 			},
 		},
@@ -3107,6 +3522,7 @@ var (
 				{
 					CountryCode: "VE",
 					Name:        "America/Caracas",
+					City:        "caracas",
 				},
 			},
 		},
@@ -3117,6 +3533,7 @@ var (
 				{
 					CountryCode: "VN",
 					Name:        "Asia/Ho_Chi_Minh",
+					City:        "ho chi minh",
 				},
 			},
 		},
@@ -3127,6 +3544,7 @@ var (
 				{
 					CountryCode: "VG",
 					Name:        "America/Tortola",
+					City:        "tortola",
 				},
 			},
 		},
@@ -3137,6 +3555,7 @@ var (
 				{
 					CountryCode: "VI",
 					Name:        "America/St_Thomas",
+					City:        "st thomas",
 				},
 			},
 		},
@@ -3147,6 +3566,7 @@ var (
 				{
 					CountryCode: "WF",
 					Name:        "Pacific/Wallis",
+					City:        "wallis",
 				},
 			},
 		},
@@ -3157,6 +3577,7 @@ var (
 				{
 					CountryCode: "EH",
 					Name:        "Africa/El_Aaiun",
+					City:        "el aaiun",
 				},
 			},
 		},
@@ -3167,6 +3588,7 @@ var (
 				{
 					CountryCode: "YE",
 					Name:        "Asia/Aden",
+					City:        "aden",
 				},
 			},
 		},
@@ -3177,6 +3599,7 @@ var (
 				{
 					CountryCode: "ZM",
 					Name:        "Africa/Lusaka",
+					City:        "lusaka",
 				},
 			},
 		},
@@ -3187,6 +3610,7 @@ var (
 				{
 					CountryCode: "ZW",
 					Name:        "Africa/Harare",
+					City:        "harare",
 				},
 			},
 		},
@@ -3197,6 +3621,7 @@ var (
 				{
 					CountryCode: "AX",
 					Name:        "Europe/Mariehamn",
+					City:        "mariehamn",
 				},
 			},
 		},

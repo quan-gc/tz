@@ -4,6 +4,7 @@ package tz
 type Zone struct {
 	CountryCode string
 	Name        string
+	City        string
 }
 
 // Country contains a single Country's information

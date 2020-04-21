@@ -8,10 +8,11 @@ import (
 	"os"
 	"os/exec"
 	"sort"
+	"strings"
 	"text/template"
 	"time"
 
-	"github.com/go-playground/tz"
+	"github.com/quan-gc/tz"
 )
 
 const (
@@ -180,9 +181,13 @@ func process() ([]tz.Country, error) {
 			log.Fatal(err)
 		}
 
+		zoneConvertFull := strings.Split(row[name], "/")
+		zoneTemp := zoneConvertFull[len(zoneConvertFull)-1]
+		zoneTemp = strings.ToLower(strings.Replace(zoneTemp, "_", " ", -1))
 		z := tz.Zone{
 			CountryCode: row[code],
 			Name:        row[name],
+			City:        zoneTemp,
 		}
 
 		// test zone is working in Go
@@ -227,6 +232,7 @@ var (
 					{{ range $z := $c.Zones }}{
 						CountryCode: "{{ $z.CountryCode }}",
 						Name: "{{ $z.Name }}",
+						City: "{{ $z.City }}",
 					},
 					{{ end }}
 				},
